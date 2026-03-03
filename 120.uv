@@ -1,0 +1,2 @@
+sudo curl -LsSf http://astral.sh/uv/install.sh | sh
+

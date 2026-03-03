@@ -1,0 +1,4 @@
+
+sudo usermod -a -G vboxsf $USER
+# https://community.linuxmint.com/tutorial/view/2334
+
