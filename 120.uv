@@ -1,2 +1,3 @@
-sudo curl -LsSf http://astral.sh/uv/install.sh | sh
+#!/usr/bin/env bash
 
+sudo curl -LsSf http://astral.sh/uv/install.sh | sh

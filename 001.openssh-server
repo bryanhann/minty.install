@@ -1,5 +1,6 @@
-sudo apt update
-sudo apt install openssh-server
+#!/usr/bin/env bash
+
+sudo apt install openssh-server -y
 sudo systemctl enable ssh
 sudo ufw allow ssh
 sudo ufw enable

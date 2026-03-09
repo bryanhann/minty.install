@@ -1,4 +1,5 @@
+#!/usr/bin/env bash
 
-sudo usermod -a -G vboxsf $USER
 # https://community.linuxmint.com/tutorial/view/2334
 
+sudo usermod -a -G vboxsf $USER

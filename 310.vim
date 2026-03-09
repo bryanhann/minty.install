@@ -1,1 +1,3 @@
-sudo apt install vim
+#!/usr/bin/env bash
+
+sudo apt install vim -y
